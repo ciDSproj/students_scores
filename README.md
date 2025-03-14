@@ -2,10 +2,10 @@
 This project contains data cleaning and preprocessing, visualization, and analysis of the Students Exam Scores dataset from [Kaggle](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores).
 
 ## Overview
-- Cleaned and preprocessed data (inputting missing values in numerical and categorical columns, creating new features)
+- Cleaned and preprocessed data
 - Gained insights from descriptive statistics and variables distributions
 - Visualized the overall exam scores by various study habits and social factors using barplots, kde plots and boxplots
-- Evaluated if other personal factors, like the number of siblings, have any effect on exam grades
+- Evaluated if other personal factors have any effect on exam grades
 
 ## Resources Used
 - Python 3.7

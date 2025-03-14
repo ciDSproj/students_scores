@@ -51,7 +51,7 @@ The Students Exam Scores dataset includes scores from three exams of students at
 - Some students scored very low on tests with a minimum of 0 for math, 10 for reading and 4 for writing. Other students scored very high as indicated by the maximum value of 100 for all the tests.
 - From all the students, 25% scored below 56-59 and 25% scored above 78-80. The median value (50th percentile) shows that 50% of the students scored below the level of 67-70.
 
-**Visualizations** that I made include:
+I made the following **visualizations**:
 - Histogram of overall Scores
 - Countplots of Grades, Test Preparation, Weekly Study Hours, Parent Education, Ethnic Group and Practice Sport
 - Bar plot of Scores by Parent Education
@@ -66,6 +66,9 @@ The Students Exam Scores dataset includes scores from three exams of students at
 
 
 Some of the visualizations are presented below:
+
+
+
 
 
 

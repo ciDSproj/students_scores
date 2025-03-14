@@ -5,7 +5,7 @@ The analysis focuses on the influence of a variety of personal, socio-economic, 
 ## Overview
 - Cleaned and preprocessed data
 - Gained insights from descriptive statistics and variables distributions
-- Visualized the overall exam scores by various study habits and social factors using bar plots, KDE plots and box plots
+- Visualized the overall exam scores by various study habits and social factors using count plots, bar plots, KDE plots and box plots
 - Evaluated if other personal factors have any effect on exam grades
 
 ## Resources Used
@@ -56,8 +56,8 @@ The Students Exam Scores dataset includes scores from three exams of students at
 - Countplots of Grades, Test Preparation, Weekly Study Hours, Parent Education, Ethnic Group and Practice Sport
 - Bar plot of Scores by Parent Education
 - KDE plots of Scores by:
-      -  Test Preparation
-      -  Weekly Study Hours
+     - Test Preparation
+     - Weekly Study Hours
 - Box plots of Scores by:  
      - Parent Education
      - Gender

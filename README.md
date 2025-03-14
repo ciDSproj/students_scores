@@ -57,16 +57,10 @@ The steps that I followed for cleaning the data and adding new variables are:
 I made the following **visualizations**:
 
 - Histogram of overall Scores
-- Countplots of Grades, Test Preparation, Weekly Study Hours, Parent Education, Ethnic Group and Practice Sport
+- Count plots of Grades, Test Preparation, Weekly Study Hours, Parent Education, Ethnic Group and Practice Sport
 - Bar plot of Scores by Parent Education
-- KDE plots of Scores by:
-     - Test Preparation
-     - Weekly Study Hours
-- Box plots of Scores by:  
-     - Parent Education
-     - Gender
-     - Ethnic Group
-     - Practice Sport
+- KDE plots of Scores by Test Preparation and Weekly Study Hours
+- Box plots of Scores by Gender, Ethnic Group and Practice Sport
 
 
 Some of the visualizations are presented below:

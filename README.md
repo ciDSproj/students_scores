@@ -36,12 +36,12 @@ The Students Exam Scores dataset includes scores from three exams of students at
 - Check for duplicates
 - Handle missing values
      - Numerical columns: impute missing values with the median of the variable
-     - Categorical columns: impute missing values with varaible's mode
+     - Categorical columns: impute missing values with the most frequent value in the column
 - Drop unnecessary columns
 - Map categories in columns
 - Add two new columns:
-     - Scores contains the average Math, Reading and Writing scores
-     - Grades represents students' grades from A to F according to Overall Score
+     - **Scores** contains the average Math, Reading and Writing scores
+     - **Grades** represents students' grades from A to F according to Overall Score
 
 
 

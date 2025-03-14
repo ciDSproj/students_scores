@@ -1,5 +1,6 @@
 # Students Exam Scores
 This project contains data cleaning and preprocessing, visualization, and analysis of the Students Exam Scores dataset from [Kaggle](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores).
+The analysis focuses on the influence of a variety of personal, socio-economic, and cultural factors on students’ academic performance.
 
 ## Overview
 - Cleaned and preprocessed data
@@ -31,6 +32,17 @@ The Students Exam Scores dataset includes scores from three exams of students at
 - **WritingScore**: writing test score(0-100)
 
 ## Data Cleaning and Preprocessing
+- Get insights from descriptive statistics and columns info 
+- Check for duplicates
+- Handle missing values
+     - Numerical columns: impute missing values with the median of the variable
+     - Categorical columns: impute missing values with varaible's mode
+- Drop unnecessary columns
+- Map categories in columns
+- Add two new columns:
+     - Scores contains the average Math, Reading and Writing scores
+     - Grades represents students' grades from A to F according to Overall Score
+
 
 
 

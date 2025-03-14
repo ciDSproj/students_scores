@@ -5,7 +5,7 @@ The analysis focuses on the influence of a variety of personal, socio-economic, 
 ## Overview
 - Cleaned and preprocessed data
 - Gained insights from descriptive statistics and variables distributions
-- Visualized the overall exam scores by various study habits and social factors using barplots, kde plots and boxplots
+- Visualized the overall exam scores by various study habits and social factors using bar plots, KDE plots and box plots
 - Evaluated if other personal factors have any effect on exam grades
 
 ## Resources Used
@@ -44,32 +44,34 @@ The Students Exam Scores dataset includes scores from three exams of students at
      - **Grades** represents students' grades from A to F according to Overall Score
 
 ## EDA
+**Insights** that I derived from descriptive statistics:
+- Most of the columns have missing values.
+- The average number of siblings is 2.
+- The mean score for math, reading and writing is between 67-69. The scores have almost the same standard deviation which indicates similar variability.
+- Some students scored very low on tests with a minimum of 0 for math, 10 for reading and 4 for writing. Other students scored very high as indicated by the maximum value of 100 for all the tests.
+- From all the students, 25% scored below 56-59 and 25% scored above 78-80. The median value (50th percentile) shows that 50% of the students scored below the level of 67-70.
 
-Insights derived from descriptive statistics:
--Most of the columns have missing values.
--The average number of siblings is 2.
--The mean score for math, reading and writing is between 67-69. The scores have almost the same standard deviation which indicates similar variability.
--Some students scored very low on tests with a minimum of 0 for math, 10 for reading and 4 for writing. Other students scored very high as indicated by the maximum value of 100 for all the tests.
--From all the students, 25% scored below 56-59 and 25% scored above 78-80. The median value (50th percentile) shows that 50% of the students scored below the level of 67-70.
-
-Visualizations:
-- Histogram of Overall Score
-- Bar plots of the following variables: Grades, Test Preparation, Weekly Study Hours, Parent Education, Ethnic Group and Practice Sport
-- Boxplots of Overall Score by:
-    - Test Preparation
-- Weekly Study Hours
-- Parent Education
-- Gender
-- Ethnic Group
-- Practice Sport
-
-Some visualizations are presented below:
-
+**Visualizations** that I made include:
+- Histogram of overall Scores
+- Countplots of Grades, Test Preparation, Weekly Study Hours, Parent Education, Ethnic Group and Practice Sport
+- Bar plot of Scores by Parent Education
+- KDE plots of Scores by:
+      -  Test Preparation
+      -  Weekly Study Hours
+- Box plots of Scores by:  
+     - Parent Education
+     - Gender
+     - Ethnic Group
+     - Practice Sport
 
 
+Some of the visualizations are presented below:
 
 
-Observations about variables distribution: 
+
+
+
+**Observations** about variables distributions: 
 - The Overall Score has a normal distribution, skewed to the left, with a mean value of ~70
 - Most students do not prepare for the tests.
 - The greatest number of students got F grades, followed by D and C. The lowest count of grades is for students who got A's.

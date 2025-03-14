@@ -32,6 +32,8 @@ The Students Exam Scores dataset includes scores from three exams of students at
 - **WritingScore**: writing test score(0-100)
 
 ## Data Cleaning and Preprocessing
+The steps that I followed for cleaning the data and adding new variables are:
+
 - Get insights from descriptive statistics and columns info 
 - Check for duplicates
 - Handle missing values
@@ -45,6 +47,7 @@ The Students Exam Scores dataset includes scores from three exams of students at
 
 ## EDA
 **Insights** that I derived from descriptive statistics:
+
 - Most of the columns have missing values.
 - The average number of siblings is 2.
 - The mean score for math, reading and writing is between 67-69. The scores have almost the same standard deviation which indicates similar variability.
@@ -52,6 +55,7 @@ The Students Exam Scores dataset includes scores from three exams of students at
 - From all the students, 25% scored below 56-59 and 25% scored above 78-80. The median value (50th percentile) shows that 50% of the students scored below the level of 67-70.
 
 I made the following **visualizations**:
+
 - Histogram of overall Scores
 - Countplots of Grades, Test Preparation, Weekly Study Hours, Parent Education, Ethnic Group and Practice Sport
 - Bar plot of Scores by Parent Education
@@ -75,6 +79,7 @@ Some of the visualizations are presented below:
 
 
 **Observations** about variables distributions: 
+
 - The Overall Score has a normal distribution, skewed to the left, with a mean value of ~70
 - Most students do not prepare for the tests.
 - The greatest number of students got F grades, followed by D and C. The lowest count of grades is for students who got A's.

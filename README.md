@@ -5,7 +5,7 @@ The analysis focuses on the influence of a variety of personal, socio-economic, 
 ## Overview
 - Cleaned and preprocessed data
 - Gained insights from descriptive statistics and variables distributions
-- Visualized the overall exam scores by various study habits and social factors using count plots, bar plots, KDE plots and box plots
+- Visualized the overall exam scores by various study habits and social factors
 - Evaluated if other personal factors have any effect on exam grades
 
 ## Resources Used

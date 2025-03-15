@@ -65,11 +65,15 @@ I made the following **visualizations**:
 
 Some of the visualizations are presented below:
 
-![Grades](da3_grades.png)
+![Test Prep](da3_prep_hourstd.png)
 <br/>
 
 
 ![Scores by Test Prep](da3_score_prep.png)
+<br/>
+
+
+![Scores by Parent Ed](da3_score_parent.png)
 <br/>
 
 
